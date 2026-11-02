@@ -1,0 +1,7 @@
+PÁGINA DE VENDAS OTIMIZADA
+
+Extraia todos os arquivos do ZIP para a mesma pasta.
+Abra index.html para visualizar.
+Para publicar em sua hospedagem, envie index.html, os arquivos site-*.css e site-*.js e a pasta assets juntos, preservando a estrutura.
+
+Todas as imagens originais foram mantidas, sem perda de qualidade.
